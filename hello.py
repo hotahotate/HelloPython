@@ -1,3 +1,4 @@
 b='Hello '
 a='World'
-print (b+a)
+c='GoodBy'
+print (b+a+c)
